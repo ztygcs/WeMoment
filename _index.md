@@ -8,13 +8,21 @@ toc: true
 
 
 # 2020年
-## 01月07号
 
+## 01月10号
 <div class="mytag">
-<p style="text-align:center">
-	"总有一条蜿蜒在童话镇里七彩的河"</br>
+<p style="margin-left:25px;text-align:center">
+	怎么感觉自己有点感冒了，鼻子都堵了😖
+</p>
+</div>
+
+## 01月07号
+<div class="mytag">
+<p style="text-align:center" class="colorfulfont">
+	总有一条蜿蜒在童话镇里七彩的河</br>
 	<i>《童话镇》</i>
 </p>
+
 
 </div>
 
@@ -24,6 +32,14 @@ toc: true
 <div class="mytag">
 <p style="margin-left:25px;text-align:center">
 	相遇简单 美好而纯粹
+</p>
+</div>
+
+## 12月07号
+<div class="mytag">
+<p style="text-align:center"><b>老妈的生日</b></p>
+<p style="margin:25px">
+	明天（12月08号农历冬月13）是妈妈的生日，趁着周末回趟家，给妈妈过过生日（丹姐昨天已经带着宸回去了）。回家的路上双姐跟我视频，从21号线的后湖大道一直直播到家。回到家已经是下午三点多了，妈妈今天刚好上的早班，下午三点就下班了，比我早十分钟回到家。丹姐和宸才睡醒，说好今天下午一起去阳逻买个蛋糕的，妈妈顺便去办点事，准备了一会我就在网上叫了一辆出租车，4点20分就到了军安路，还是挺方便的。不过事没办到，今天星期六嘛，旁边的人好像说今天没上班。我们只好去逛逛街了，给我买了一些衣服裤子，然后和丹姐一起去仟吉蛋糕店订了个蛋糕，一切顺利！叫了辆车回到家六七点钟了，爸爸坐在客厅看着电视在，到了该准备吃饭的时间了，爸爸今天请客，带我们去楼下的一个小馆吃饭，哈哈哈，点的那个鸡汤水饺好像不那么好吃，爸爸说这鸡不新鲜，不过最后没吃完的都还是给打包带回去了，还特意说了一句：浪费可耻，好像怕别人没听见一样，哈哈。吃完饭回到家坐着休息的时候，爸爸问我把钱放在支付宝里是不是每天可以赚钱，我说可以啊，我支付宝里放了7000多，每天收益大概0.55块，然后爸爸就让我帮他把他银行卡里的钱也转点到支付宝里。也就转了2000，也收益不了多少。过了一会就到了吃蛋糕的时间了，我们在蛋糕上插着蜡烛，妈妈想让双姐也看看，就给她通个视频，二姐没接，后来她说她在吃饭在，也没想接，她怕太羡慕太想家了，哈哈哈，她比较容易伤感。生日仪式感还是有的，妈妈默默的许个愿然后吹灭了蜡烛，那就开动了，可惜爸爸不喜欢吃蛋糕，一直都是这样，爸爸不吃这种甜点零食，他就在旁边给我们拍视频。
 </p>
 </div>
 
@@ -52,6 +68,27 @@ toc: true
 	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2019/11/%E5%85%89%E8%B0%B7%E4%BD%93%E8%82%B2%E9%A6%86.jpg" width="90%">
 	热爱
 </p>	
+</div>
+
+## 10月13号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	快凌晨12点了我和柯肚子都饿了，哈哈哈，穿着拖鞋披件外套就去楼下吃烧烤，夜晚还是有点冷的
+</p>
+</div>
+
+## 10月07号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	室友自制的石榴酒，哈哈哈，好喝吗😍
+</p>
+</div>
+
+## 10月01号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	表弟与祖国同生，带他出去吃了个蛋糕🎂
+</p>
 </div>
 
 ## 07月31号
@@ -94,9 +131,23 @@ toc: true
 </p>
 </div>
 
+## 07月27号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	森林公园🌳夜跑🏃‍
+</p>
+</div>
+
+## 07月26号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	华为OpenDay，没被洗脑，拿了个小礼物🎁
+</p>
+</div>
+
 ## 07月23号
 <div class="mytag">
-<p style="margin:25px">
+<p style="margin-left:25px;margin-right:25px">
 	夜晚独自一人在森林小路中跑步你会跑得更快</br>
 	因为你会感觉你背后老是有个人在追你一样😱
 </p>
@@ -133,6 +184,33 @@ toc: true
 </p>
 </div>
 
+## 05月30号
+<div class="mytag">
+<p style="text-align:center">
+	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2019/05/DragonCat.jpg" width="90%">
+	如果把童年再放映一遍</br>
+	我们一定先会大笑</br>
+	然后放声痛哭</br>
+	最后挂着眼泪</br>
+	微笑着睡去</br>
+	<i>-宫崎骏《龙猫》-</i>
+</p>
+</div>
+
+## 05月18号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	东湖绿道骑行4个小时🚲，风景好，舒服！
+</p>
+</div>
+
+## 05月15号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	昨天上完夜课，和朋友在路上走，不小心撞到电线杆，今天额头出现一块疤🤕
+</p>
+</div>
+
 ## 05月11号
 <div class="mytag">
 <p style="text-align:center"><b>菊·光谷</b></p>
@@ -142,6 +220,50 @@ toc: true
 	离去成词</br>
 	且笑风尘不敢造次</br>
 	-《人间失格》-
+</p>
+</div>
+
+## 05月10号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	自己动手做了个泥塑企鹅😎
+</p>
+</div>
+
+## 05月03号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	五一放个假，表弟又要跑我家找我玩，就是来找我打游戏的...
+</p>
+</div>
+
+## 04月20号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	研究生还有语文考试😂
+</p>
+</div>
+
+## 03月18号
+<div class="mytag">
+<p style="text-align:center"><b>鸡爪槭·武汉</b></p>
+<p style="text-align:center">
+	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2018/03/%E9%B8%A1%E7%88%AA%E6%A7%AD.jpg" width="90%">
+	鸡爪槭很漂亮
+</p>
+</div>
+
+## 03月03号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	请室友吃顿饭。
+</p>
+</div>
+
+## 02月22号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	一个人到江滩来转转，江边的风很舒服，江边的夜景也很美。
 </p>
 </div>
 
@@ -159,12 +281,49 @@ toc: true
 </p>
 </div>
 
+## 01月06号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	夏总请客吃的火锅还是香啊！
+</p>
+</div>
+
 # 2018年
 
 ## 12月31号
 <div class="mytag">
+<p style="text-align:center"><b>踏雪·马鞍山森林公园</b></p>
 <p style="margin-left:25px;margin-right:25px">
+	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2018/12/snow.jpg" width="90%">
 	雪后的森林公园一片洁白，天也格外的蓝😍
+</p>
+</div>
+
+## 12月29号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	2018年最后一波聚会，有麦霸在场，咱们就听听歌就好了。
+</p>
+</div>
+
+## 12月09号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	再次来到胖哥俩，棒！
+</p>
+</div>
+
+## 11月15号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	聚餐，哈哈哈，鲈鱼还挺不错！
+</p>
+</div>
+
+## 11月01号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	小家伙明天一周岁生日，时间过的真快。今天赶去荆门（他爸爸的老家），明天有酒席。话说明天这个日子很巧啊！
 </p>
 </div>
 
@@ -251,6 +410,27 @@ toc: true
 </p>
 </div>
 
+## 08月09号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	科三结束，感觉离胜利不远了。
+</p>
+</div>
+
+## 07月16号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	科二通过，奖励自己买了个AirPods。
+</p>
+</div>
+
+## 06月25号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	科目一考试，哈哈哈，过了就完了。
+</p>
+</div>
+
 ## 06月14号
 <div class="mytag">
 <p style="margin-left:25px;margin-right:25px">
@@ -271,6 +451,20 @@ toc: true
 <div class="mytag">
 <p style="margin-left:25px;margin-right:25px">
 	今天拍毕业照
+</p>	
+</div>
+
+## 05月24号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	考研表彰大会，很荣幸拿了个“考研先进个人”的荣誉，不过好像没啥含金量😂（至少是一份鼓励）。
+</p>	
+</div>
+
+## 05月17号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	耳机莫名出了问题，好像接触不良吧，重新换了个EarPods。
 </p>	
 </div>
 
@@ -310,12 +504,26 @@ toc: true
 </p>	
 </div>
 
+## 01月13号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	考研成绩公布啦！
+</p>	
+</div>
+
 ## 01月22号
 <div class="mytag">
 <p style="text-align:center"><b>汉口站·武汉</b></p>
 <p style="text-align:center">
 	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2018/01/%E6%B1%89%E5%8F%A3%E7%AB%99.jpg" width="90%">
    回家总会给人带来满满的幸福感
+</p>	
+</div>
+
+## 01月13号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	和阿军还有炉炉一起，骑上小单车逛逛荆州博物馆。
 </p>	
 </div>
 
@@ -368,6 +576,13 @@ toc: true
 	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2017/07/%E9%95%BF%E5%A4%A7%E5%A4%8F01.jpg" width="90%">
 	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2017/07/%E9%95%BF%E5%A4%A7%E5%A4%8F03.jpg" width="90%">
 	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2017/07/%E9%95%BF%E5%A4%A7%E5%A4%8F02.jpg" width="90%">
+</p>
+</div>
+
+## 07月13号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	今天去电影院看了《悟空传》，感觉不咋滴啊🤐。
 </p>
 </div>
 
@@ -469,4 +684,3 @@ toc: true
 	在家的日子总是这么无忧无虑
 </p>	
 </div>
-
