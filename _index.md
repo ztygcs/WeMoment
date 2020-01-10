@@ -128,7 +128,7 @@ toc: true
 <p style="margin-left:25px;margin-right:25px">
 	武汉斗鱼直播节(地点在汉口江滩)</br>
 	朋友给的门票，晚上到这里来看看</br>
-	人多事也多，发生了点不愉快😕</br>
+	人多事也多，和陌生人发生了点不愉快😕</br>
 	没多大事，就记一下😑
 </p>
 </div>
@@ -160,6 +160,7 @@ toc: true
 </div>
 
 # 2018年
+
 ## 12月31号
 <div class="mytag">
 <p style="margin-left:25px;margin-right:25px">
@@ -219,6 +220,19 @@ toc: true
 </p>
 </div>
 
+## 10月06号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	一场说走就走的旅行</br>
+	宜昌</br>
+	第二次来了</br>
+	这次是和家人一起</br>
+	下午还在讨论要不要出去玩</br>
+	晚上就出发到了宜昌</br>
+	独留老爸一个人在家
+</p>
+</div>
+
 ## 09月17号
 <div class="mytag">
 <p style="margin-left:25px;margin-right:25px">
@@ -253,11 +267,32 @@ toc: true
 </p>	
 </div>
 
+## 06月01号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	今天拍毕业照
+</p>	
+</div>
+
 ## 04月20号
 <div class="mytag">
 <p style="text-align:center"><b>南京5日游</b></p>
 <p style="margin-left:25px;margin-right:25px">
-  15号到20号，结束了南京5日游的旅程。和阿军一起，哈哈哈，总结起来一个字：累🤪。行程是安排的满满当当，把每天要游玩的景点串起来就是一天的行程。还好咱两的体力都还行👏，哈哈，基本上规划的地方都去了。阿军是那种沉浸式的游玩，我更偏向于打卡式游玩😎。住的酒店（经过决定）定在了新街口，接下来的几天就围着它打转。从瞻园到乌衣巷，再从夫子庙到中国科举博物馆，话说科举博物馆还挺不错的，能够让你了解很多古代科举制是如何选拔人才的知识，<b>“十年寒窗苦读无人问，一举成名天下知”</b>真的不是夸张，<b>“春风得意马蹄急，一日看尽长安花”</b>也成了无数人心中的期盼。再从侵华日军南京大屠杀遇难同胞纪念馆到莫愁湖公园再到大报恩寺遗址公园。历史要铭记是为了不让悲剧重演，更要知道我们国家一路走来多么的不容易！！！从六朝古都博物馆到总统府，从中山陵到美龄宫，大家总能感觉到这座城市是那么的熟悉，好像自己以前就来过一样。昔日的金陵城也是今日的南京城，历史在她的身上留下了伤疤，相信未来会带给她绝样的风华。
+  15号到20号，结束了南京5日游的旅程。和阿军一起，哈哈哈，总结起来一个字：累🤪。行程是安排的满满当当，把每天要游玩的景点串起来就是一天的行程。还好咱两的体力都还行👏，哈哈，基本上规划的地方都去了。阿军是那种沉浸式的游玩，我更偏向于打卡式游玩😎。住的酒店（经过决定）定在了新街口，接下来的几天就围着它打转。从瞻园到乌衣巷，再从夫子庙到中国科举博物馆，话说科举博物馆还挺不错的，能够让你了解很多古代科举制是如何选拔人才的知识，<b>“十年寒窗无人问，一举成名天下知”</b>真的不是夸张，<b>“春风得意马蹄急，一日看尽长安花”</b>也成了无数人心中的期盼。再从侵华日军南京大屠杀遇难同胞纪念馆到莫愁湖公园再到大报恩寺遗址公园。历史要铭记是为了不让悲剧重演，更要知道我们国家一路走来多么的不容易！！！从六朝古都博物馆到总统府，从中山陵到美龄宫，大家总能感觉到这座城市是那么的熟悉，好像自己以前就来过一样。昔日的金陵城也是今日的南京城，历史在她的身上留下了伤疤，相信未来会带给她绝样的风华。
+</p>	
+</div>
+
+## 03月14号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	初试和复试成绩排名出来了，还是有书读的😄
+</p>	
+</div>
+
+## 02月08号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	突然收到了阿军送我的生日礼物，用心了！😜
 </p>	
 </div>
 
@@ -265,6 +300,13 @@ toc: true
 <div class="mytag">
 <p style="margin-left:25px;margin-right:25px">
 	和妈妈姐姐去花鸟市场，遇见了一只羊驼，哈哈，很可爱。
+</p>	
+</div>
+
+## 02月06号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	在家学着做蛋糕，样子是有了，味道还差点。
 </p>	
 </div>
 
@@ -288,6 +330,13 @@ toc: true
 
 # 2017年
 
+## 11月25号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	银杏树下背肖四，哈哈，大部分时间在神游，我发现很多来来往往的人都喜欢拍这棵树哎！
+</p>
+</div>
+
 ## 10月05号
 <div class="mytag">
 <p style="text-align:center">
@@ -297,16 +346,45 @@ toc: true
 </p>
 </div>
 
-## 07月14号
-<div class="mytag" style="text-align:center">
+## 09月15号
+<div class="mytag">
 <p style="text-align:center">
-   <b>夏·长大</b>
+	波波的哈士奇长大了啊
 </p>
+</div>
+
+## 08月17号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	今天打开寝室窗户突然发现窗户外的一个角落长了个马蜂窝😮，啥时候长的我咋不知道啊🙄，暑假室友都回家了，就我一个人还在这里，拿着一瓶杀虫剂，5分钟就把它们给灭了，我是不是很残忍😈
+	
+</p>	
+</div>
+
+## 07月14号
+<div class="mytag">
 <p style="text-align:center">
+	<b>夏·长大</b>
 	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2017/07/%E9%95%BF%E5%A4%A7%E5%A4%8F01.jpg" width="90%">
 	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2017/07/%E9%95%BF%E5%A4%A7%E5%A4%8F03.jpg" width="90%">
 	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2017/07/%E9%95%BF%E5%A4%A7%E5%A4%8F02.jpg" width="90%">
 </p>
+</div>
+
+## 06月08号
+<div class="mytag">
+<p style="text-align:center">
+	<b>荆州环城跑</b>
+	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2017/06/run.jpg" width="90%">
+	just run!
+</p>	
+</div>
+
+## 05月18号
+<div class="mytag">
+<p style="text-align:center">
+	早起，去食堂吃个早饭，回自习室继续复习！
+</p>	
 </div>
 
 ## 04月02号
@@ -323,7 +401,7 @@ toc: true
 	时间：2017年03月02号</br>
 	人物：波总和阿军还有我</br>
 	地点：荆州中山公园</br>
-	主要事件：摄影(拿着单反就叫摄影😶)
+	主要事件：摄影(拿着单反拍照我就叫它摄影😶)
 </p>	
 </div>
 
@@ -360,6 +438,20 @@ toc: true
 </p>
 </div>
 
+## 04月28号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	今天姐姐从长沙到荆州来看我，哈哈，带着她叫上室友哥几个一起出去转转，来荆州嘛，城墙上还是要逛逛的，于是就和哥们四五个人带上老姐一起爬城墙，老姐请客吃午饭，美滋滋！</br>
+</p>	
+</div>
+
+## 03月19号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	四月份有一场小挑比赛，今天去拍了个合照。
+</p>	
+</div>
+
 ## 03月06号
 <div class="mytag">
 <p style="text-align:center">
@@ -368,6 +460,13 @@ toc: true
 <p style="text-align:center">
 	<img src="https://zccon.oss-cn-beijing.aliyuncs.com/Hugo/images/%E5%BE%AE%E5%8A%A8%E6%80%81/2016/03/%E6%A8%B1%E8%8A%B1.jpg" width="90%">
 	三月初始</br>草长莺飞</br>午后暖阳
+</p>	
+</div>
+
+## 02月25号
+<div class="mytag">
+<p style="margin-left:25px;margin-right:25px">
+	在家的日子总是这么无忧无虑
 </p>	
 </div>
 
